@@ -1,0 +1,9 @@
+Flask
+PyPDF2
+pdfplumber
+pymongo
+python-dotenv
+pytesseract
+pdf2image
+Pillow
+PyMuPDF
